@@ -7,5 +7,4 @@ PCB for the Uniflächentaster (http://uniflaechentaster.de)
 * possibility to wire the two switches from the Uniflächentaster
 * CR2032 battery powered
 
-![top](https://www.openhardware.io/uploads/5958e3b9a2d1ad30290047fc/image/PCB-top.svg)
-![bottom](https://www.openhardware.io/uploads/5958e3b9a2d1ad30290047fc/image/PCB-bottom.svg)
+Images of the PCB at https://www.openhardware.io/view/419
